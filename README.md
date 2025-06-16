@@ -1,4 +1,5 @@
 # IPMA MCP Server
+[![smithery badge](https://smithery.ai/badge/@DiogoAzevedo03/ipma-mcp-server)](https://smithery.ai/server/@DiogoAzevedo03/ipma-mcp-server)
 
 Um servidor MCP (Model Context Protocol) que fornece acesso aos dados meteorológicos do IPMA (Instituto Português do Mar e da Atmosfera) através de linguagem natural.
 
@@ -12,6 +13,14 @@ Um servidor MCP (Model Context Protocol) que fornece acesso aos dados meteoroló
 - **Listagem de Locais**: Ver todas as cidades disponíveis
 
 ## 🚀 Instalação e Configuração
+
+### Instalando via Smithery
+
+Para instalar ipma-mcp-server para Claude Desktop automaticamente via [Smithery](https://smithery.ai/server/@DiogoAzevedo03/ipma-mcp-server):
+
+```bash
+npx -y @smithery/cli install @DiogoAzevedo03/ipma-mcp-server --client claude
+```
 
 ### 1. Clonar e Instalar Dependências
 
